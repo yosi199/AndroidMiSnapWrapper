@@ -1,0 +1,3 @@
+rootProject.name = "AndroidMiSnapWrapper"
+include ':app'
+include ':AndroidMiSnapWrapper'
